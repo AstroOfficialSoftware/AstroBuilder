@@ -1,9 +1,9 @@
 <h1 align="center">
-  Luna Token Grabber
+  Astro Token Grabber
 </h1>
 
 <div align="center">
-  <img  src="https://user-images.githubusercontent.com/99215486/175369409-b967da5b-e373-48ea-b8f5-8ed3d613df03.gif">
+  <img  src="[https://user-images.githubusercontent.com/99215486/175369409-b967da5b-e373-48ea-b8f5-8ed3d613df03.gif](https://media.discordapp.net/attachments/1012111266401230848/1113439333135941743/Comp_1_2.gif)">
   <br>
   <img  src="https://img.shields.io/github/languages/top/Smug246/Luna-Token-Grabber?color=6d00c1">
   <img  src="https://img.shields.io/github/stars/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
